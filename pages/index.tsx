@@ -9,6 +9,7 @@ const IndexPage = () => (
         <a>About</a>
       </Link>
     </p>
+      <div className="flex bg-red-500">asd</div>
   </Layout>
 )
 
